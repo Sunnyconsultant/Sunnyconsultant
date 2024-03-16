@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sunny
+- 👀 I’m interested in AI application
+- 🌱 I’m currently learning how to use AI and ChatGPT tools to create a efficient workflow and life.
+- 💞️ I’m looking to collaborate on AI applications
